@@ -1,0 +1,420 @@
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 1===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [28.54060417 60.13587604 47.33394271]
+Giá trị TB (BGR) - Ảnh 2: [28.40013047 59.91505182 47.12348542]
+Độ sáng TB - Ảnh 1: 52.70 | Ảnh 2: 52.50
+Độ tương phản - Ảnh 1: 35.69 | Ảnh 2: 35.45
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9951 (1 = giống hệt)
+MSE: 5.19 (0 = giống hệt)
+PSNR: 40.98 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 2===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [182.01523021 186.29588438 191.01047917]
+Giá trị TB (BGR) - Ảnh 2: [181.82452031 186.10311354 190.81295052]
+Độ sáng TB - Ảnh 1: 187.16 | Ảnh 2: 186.97
+Độ tương phản - Ảnh 1: 49.41 | Ảnh 2: 49.40
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9970 (1 = giống hệt)
+MSE: 5.29 (0 = giống hệt)
+PSNR: 40.90 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 3===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [23.3868375  25.6447375  41.11538646]
+Giá trị TB (BGR) - Ảnh 2: [23.40224167 25.57710078 40.98869583]
+Độ sáng TB - Ảnh 1: 30.10 | Ảnh 2: 30.01
+Độ tương phản - Ảnh 1: 29.36 | Ảnh 2: 29.02
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9919 (1 = giống hệt)
+MSE: 7.81 (0 = giống hệt)
+PSNR: 39.20 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 4===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [79.95425    78.92484896 88.40742396]
+Giá trị TB (BGR) - Ảnh 2: [79.91322344 78.88449609 88.36514661]
+Độ sáng TB - Ảnh 1: 81.87 | Ảnh 2: 81.83
+Độ tương phản - Ảnh 1: 60.01 | Ảnh 2: 59.99
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9991 (1 = giống hệt)
+MSE: 0.40 (0 = giống hệt)
+PSNR: 52.11 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 5===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [ 95.55898437 133.38293646 173.38896562]
+Giá trị TB (BGR) - Ảnh 2: [ 95.53028203 133.35137578 173.34699167]
+Độ sáng TB - Ảnh 1: 141.05 | Ảnh 2: 141.01
+Độ tương phản - Ảnh 1: 68.58 | Ảnh 2: 68.60
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9997 (1 = giống hệt)
+MSE: 0.21 (0 = giống hệt)
+PSNR: 54.86 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 6===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [204.85580104 204.85580104 204.85580104]
+Giá trị TB (BGR) - Ảnh 2: [204.82676927 204.82676927 204.82676927]
+Độ sáng TB - Ảnh 1: 204.86 | Ảnh 2: 204.83
+Độ tương phản - Ảnh 1: 20.89 | Ảnh 2: 20.92
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9997 (1 = giống hệt)
+MSE: 0.18 (0 = giống hệt)
+PSNR: 55.51 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 7===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [107.62793333  98.56988333 129.65684375]
+Giá trị TB (BGR) - Ảnh 2: [107.55665156  98.50200052 129.58323672]
+Độ sáng TB - Ảnh 1: 108.89 | Ảnh 2: 108.83
+Độ tương phản - Ảnh 1: 57.37 | Ảnh 2: 57.37
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9988 (1 = giống hệt)
+MSE: 0.12 (0 = giống hệt)
+PSNR: 57.51 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 8===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [154.92601562 145.47048646 140.70346563]
+Giá trị TB (BGR) - Ảnh 2: [154.6036474  145.1809888  140.41604896]
+Độ sáng TB - Ảnh 1: 145.11 | Ảnh 2: 144.82
+Độ tương phản - Ảnh 1: 81.28 | Ảnh 2: 80.76
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 0.9997 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9859 (1 = giống hệt)
+MSE: 21.64 (0 = giống hệt)
+PSNR: 34.78 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 9===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [ 94.06631146 103.26468438 108.13380104]
+Giá trị TB (BGR) - Ảnh 2: [ 93.87027708 103.03370807 107.90341068]
+Độ sáng TB - Ảnh 1: 103.69 | Ảnh 2: 103.46
+Độ tương phản - Ảnh 1: 56.85 | Ảnh 2: 56.62
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 0.9999 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9897 (1 = giống hệt)
+MSE: 8.13 (0 = giống hệt)
+PSNR: 39.03 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 10===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [185.139725   179.2778     171.42339792]
+Giá trị TB (BGR) - Ảnh 2: [185.12892318 179.32134036 171.46484375]
+Độ sáng TB - Ảnh 1: 177.59 | Ảnh 2: 177.64
+Độ tương phản - Ảnh 1: 82.28 | Ảnh 2: 81.94
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 0.9999 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9952 (1 = giống hệt)
+MSE: 10.04 (0 = giống hệt)
+PSNR: 38.11 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 11===
+Ảnh 1 (Ảnh gốc): (799, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1598, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 958,800 | Ảnh 2: 3,835,200
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [101.96247705 103.88667292 102.28794013]
+Giá trị TB (BGR) - Ảnh 2: [101.81570322 103.69765019 102.09772632]
+Độ sáng TB - Ảnh 1: 103.19 | Ảnh 2: 103.01
+Độ tương phản - Ảnh 1: 61.38 | Ảnh 2: 61.26
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9943 (1 = giống hệt)
+MSE: 6.32 (0 = giống hệt)
+PSNR: 40.12 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 12===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [178.25738333 180.04718125 174.96962396]
+Giá trị TB (BGR) - Ảnh 2: [178.16927813 179.96117578 174.88530313]
+Độ sáng TB - Ảnh 1: 178.34 | Ảnh 2: 178.25
+Độ tương phản - Ảnh 1: 51.43 | Ảnh 2: 51.45
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9983 (1 = giống hệt)
+MSE: 0.66 (0 = giống hệt)
+PSNR: 49.91 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 13===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [115.15781354 126.03789167 129.07409479]
+Giá trị TB (BGR) - Ảnh 2: [115.02224792 125.90187917 128.93806406]
+Độ sáng TB - Ảnh 1: 125.71 | Ảnh 2: 125.57
+Độ tương phản - Ảnh 1: 45.17 | Ảnh 2: 45.14
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9976 (1 = giống hệt)
+MSE: 2.19 (0 = giống hệt)
+PSNR: 44.72 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 14===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [30.47112708 21.67696354 22.92401562]
+Giá trị TB (BGR) - Ảnh 2: [30.40472891 21.621975   22.87177812]
+Độ sáng TB - Ảnh 1: 23.04 | Ảnh 2: 22.99
+Độ tương phản - Ảnh 1: 23.71 | Ảnh 2: 23.65
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9977 (1 = giống hệt)
+MSE: 0.59 (0 = giống hệt)
+PSNR: 50.44 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 15===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [ 41.51361875 117.77039479 117.94381667]
+Giá trị TB (BGR) - Ảnh 2: [ 41.45359766 117.4464026  117.59814245]
+Độ sáng TB - Ảnh 1: 109.13 | Ảnh 2: 108.83
+Độ tương phản - Ảnh 1: 57.65 | Ảnh 2: 57.23
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9908 (1 = giống hệt)
+MSE: 12.04 (0 = giống hệt)
+PSNR: 37.32 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 16===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [ 90.65429063  87.95795313 102.734625  ]
+Giá trị TB (BGR) - Ảnh 2: [ 90.58626302  87.88168177 102.62731901]
+Độ sáng TB - Ảnh 1: 92.70 | Ảnh 2: 92.61
+Độ tương phản - Ảnh 1: 49.92 | Ảnh 2: 49.60
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9960 (1 = giống hệt)
+MSE: 7.52 (0 = giống hệt)
+PSNR: 39.37 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 17===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [46.97854271 32.91172187 52.53774062]
+Giá trị TB (BGR) - Ảnh 2: [46.95331953 32.88093932 52.49795391]
+Độ sáng TB - Ảnh 1: 40.39 | Ảnh 2: 40.36
+Độ tương phản - Ảnh 1: 32.75 | Ảnh 2: 32.72
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9995 (1 = giống hệt)
+MSE: 0.28 (0 = giống hệt)
+PSNR: 53.63 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 18===
+Ảnh 1 (Ảnh gốc): (800, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1600, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 960,000 | Ảnh 2: 3,840,000
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [45.08231771 64.99011771 66.16130208]
+Giá trị TB (BGR) - Ảnh 2: [45.02775078 64.92282344 66.08906927]
+Độ sáng TB - Ảnh 1: 63.07 | Ảnh 2: 63.00
+Độ tương phản - Ảnh 1: 32.24 | Ảnh 2: 32.21
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9995 (1 = giống hệt)
+MSE: 0.18 (0 = giống hệt)
+PSNR: 55.48 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 19===
+Ảnh 1 (Ảnh gốc): (798, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1596, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 957,600 | Ảnh 2: 3,830,400
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [153.50133563 153.2845708  163.98948726]
+Giá trị TB (BGR) - Ảnh 2: [153.39108605 153.17403352 163.87792058]
+Độ sáng TB - Ảnh 1: 156.53 | Ảnh 2: 156.42
+Độ tương phản - Ảnh 1: 60.89 | Ảnh 2: 60.92
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9964 (1 = giống hệt)
+MSE: 2.27 (0 = giống hệt)
+PSNR: 44.56 dB (>40 = rất giống)
+
+=== THÔNG SỐ CƠ BẢN ẢNH SỐ 20===
+Ảnh 1 (Ảnh gốc): (798, 1200, 3) (HxWxC)
+Ảnh 2 (Ảnh qua xử lý): (1596, 2400, 3) (HxWxC)
+Tỷ lệ kích thước: 0.50x0.50
+
+Số pixel - Ảnh 1: 957,600 | Ảnh 2: 3,830,400
+
+=== THÔNG SỐ MÀU SẮC ===
+Giá trị TB (BGR) - Ảnh 1: [125.6000919  119.55089912 120.84746658]
+Giá trị TB (BGR) - Ảnh 2: [125.54757754 119.4928279  120.77304459]
+Độ sáng TB - Ảnh 1: 120.62 | Ảnh 2: 120.56
+Độ tương phản - Ảnh 1: 69.87 | Ảnh 2: 69.85
+
+=== SO SÁNH HISTOGRAM ===
+Tương quan histogram: 1.0000 (1 = giống nhất)
+
+=== SO SÁNH NỘI DUNG (SSIM) ===
+SSIM Score: 0.9986 (1 = giống hệt)
+MSE: 0.80 (0 = giống hệt)
+PSNR: 49.10 dB (>40 = rất giống)
+
