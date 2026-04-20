@@ -13,9 +13,10 @@ Sử dụng thuật toán Edge-Directed Unsharp Masking Sharpening (EDUMS) để
 
 Dự án này triển khai một pipeline xử lý ảnh để nâng cao chất lượng ảnh (super-resolution) thông qua nhiều bước, bao gồm phóng to ảnh, khử răng cưa, làm sắc nét và khử rung.
 
+## Dataset: Unsplash Dataset
 ---
 
-## 📋 Tổng Quan Pipeline
+## Tổng Quan Pipeline
 
 ```
 Ảnh gốc
@@ -40,7 +41,7 @@ Ngoài ra còn có phương pháp thứ hai là **IESR** để so sánh.
 
 ---
 
-## 🛠️ Yêu Cầu Cài Đặt
+## Yêu Cầu Cài Đặt
 
 ```bash
 pip install opencv-python numpy scipy scikit-image
@@ -55,7 +56,7 @@ pip install opencv-python numpy scipy scikit-image
 
 ---
 
-## 📁 Cấu Trúc Thư Mục
+## Cấu Trúc Thư Mục
 
 ```
 project/
@@ -70,7 +71,7 @@ project/
 
 ---
 
-## ⚙️ Các Phương Pháp
+## Các Phương Pháp
 
 ### 1. Bicubic Upscaling
 Phóng to ảnh lên 2x bằng nội suy bicubic (`cv2.INTER_CUBIC`). Đây là bước khởi đầu cho toàn bộ pipeline.
@@ -134,7 +135,7 @@ img5 = IESR(img, iters=3)
 
 ---
 
-## 📊 Đánh Giá Chất Lượng
+## Đánh Giá Chất Lượng
 
 Hàm `compare_images_2()` so sánh ảnh gốc và ảnh đã xử lý (cho phép khác kích thước), ghi kết quả ra file `.txt`:
 
@@ -148,7 +149,7 @@ Hàm `compare_images_2()` so sánh ảnh gốc và ảnh đã xử lý (cho phé
 
 ---
 
-## 🚀 Hướng Dẫn Sử Dụng
+## Hướng Dẫn Sử Dụng
 
 ### Xử lý toàn bộ dataset (1–1254 ảnh)
 
@@ -198,7 +199,7 @@ cv2.imwrite(f"Output/{nameImg}_result.png", img4)
 
 ---
 
-## 📝 Ghi Chú
+## Ghi Chú
 
 - Pipeline xử lý toàn bộ trong không gian màu **YCbCr**, chỉ thao tác trên kênh **Y (luminance)** để bảo toàn màu sắc gốc.
 - Cả hai phương pháp (EDUMS pipeline và IESR) đều được đánh giá song song để so sánh hiệu quả.
